@@ -1,4 +1,4 @@
-Hi
+Hi;
 I am Sema Nur Alan
 Studying in Computer Engineering at Vilnius Gediminas Technical University
 You can reach me via email (semanuralan.lt@gmail.com
